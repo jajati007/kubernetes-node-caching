@@ -1,5 +1,6 @@
 #Below is the configuration which will enable Local DNS caching on each of the AKS cluster node.
 #The configuration can be deployed in each of the Nodepool in AKS cluster.
+#mode:Required,Disabled,Preferred for different mechanism
 
 {
   "mode": "Required",
